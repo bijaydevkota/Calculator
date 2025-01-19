@@ -36,7 +36,7 @@ export default function page() {
 
       <button className="bg-gray-700 hover:bg-gray-600 text-white text-2xl py-3 rounded-full col-span-2">0</button>
       <button className="bg-gray-700 hover:bg-gray-600 text-white text-2xl py-3 rounded-full">.</button>
-      <button className="bg-green-500 hover:bg-green-400 text-white text-2xl py-3 rounded-full">=</button>
+      <button className="bg-green-600 hover:bg-green-500 text-white text-2xl py-3 rounded-full">=</button>
     </div>
   </div>
 
